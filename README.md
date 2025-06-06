@@ -4,7 +4,7 @@ FakeAPI ("Fake-A-Pie") is a fake API serving simple JSON files via Github blobs.
 
 ## Features
 
-- Massive lists to test frontend virtualization.
+- Massive lists to test frontend performances and virtualization.
 
 ## Routes
 
